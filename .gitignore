@@ -1,0 +1,4 @@
+.ignored_file
+tmp
+test/*.txt
+!test/master.txt
