@@ -3,6 +3,7 @@
 <p>One more line.</p>
 <p>And another line.</p>
 <p>On master branch.</p>
+<p>Test pull request.</p>
 
 # This is h1 tag
 ## This is h2 tag
